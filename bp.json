@@ -30,29 +30,29 @@
 	},
 	"nodes": [{
 		"location": {
-			"name": "Beijing",
-			"country": "CN",
-			"latitude": 39.9497,
-			"longitude": 16.2756
+			"name": "Singapore",
+			"country": "SG",
+			"latitude": 1.3278,
+			"longitude": 103.8567
 		},
 		"node_type": "full",
 		"api_endpoint": "http://api.oraclechain.io",
 		"ssl_endpoint": "https://api.oraclechain.io"
 	},{
 		"location": {
-			"name": "Beijing",
-			"country": "CN",
-			"latitude": 39.9497,
-			"longitude": 16.2756
+			"name": "Singapore",
+			"country": "SG",
+			"latitude": 1.3278,
+			"longitude": 103.8567
 		},
 		"node_type": "seed",
 		"p2p_endpoint": "peer.oraclechain.io:19876"
 	},{
 		"location": {
-			"name": "Singapore",
-			"country": "SG",
-			"latitude": 1.3278,
-			"longitude": 103.8567
+			"name": "Netherland",
+			"country": "NL",
+			"latitude": 52.360114,
+			"longitude": 4.813371
 		},
 		"node_type": "producer"
 	}]
